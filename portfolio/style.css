@@ -1,0 +1,286 @@
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sudo {
+    width: 430px;
+    height: 435px;
+    margin: 50px;
+    background-image: url("https://mattfarley.ca/img/projects/wfdesignbuild.png");
+    background-size: auto;
+}
+
+.sudo:hover {
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/7JnR6tVVwDyUM8Cbci3GtJ/bf74366cff2ba271471725d0b0ef418c/shutterstock_376532611-og.jpg");
+    background-size: auto;
+}
+
+.sudo2 {
+    width: 430px;
+    height: 435px;
+    margin: 50px;
+
+    background-image:url("https://cdn1.vectorstock.com/i/1000x1000/19/45/tic-tac-toe-game-linear-outline-icon-neon-style-vector-28341945.jpg");
+    background-size: auto;
+}
+
+.sudo2:hover {
+    background-image: url("https://i.insider.com/63a18ca9b5600000185b767f?width=1200&format=jpeg");
+    background-size: auto;
+}
+
+.sudo1 {
+    width: 430px;
+    height: 435px;
+    margin: 50px;
+    background-image: url("https://www.denofgeek.com/wp-content/uploads/2022/11/batman-movies.jpg?resize=768%2C432");
+    background-size: auto;
+}
+
+/* .sudo1:hover {
+    background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/211227135008-02-the-batman-trailer.jpg?c=16x9&q=w_800,c_fill");
+    background-size: auto;
+} */
+
+.center1 {
+
+    width: 8%;
+    height: auto;
+    margin: auto;
+    /* justify-content: center; */
+}
+
+.img69 {
+    display: flex;
+    position: relative;
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.flogo {
+    margin: auto;
+}
+
+.slogo {
+    margin: auto;
+    /* scale: 0.2; */
+    width: 65%;
+}
+
+
+
+#img61 {
+    display: flex;
+}
+
+
+
+#size1 {
+    font-size: 4em;
+}
+
+nav {
+    display: flex;
+    margin: 22px;
+    width: 90%;
+    justify-content: space-between;
+
+}
+
+.rnav {
+    display: flex;
+    align-content: flex-end;
+    justify-self: end;
+    margin: 20px;
+    align-self: end;
+
+}
+
+.rrnav {
+    margin: 20px;
+    position: absolute;
+    top: 19%;
+    right: 4%;
+
+}
+
+.navbar {
+    display: flex;
+    /* justify-content: space-around; */
+    padding: 20px;
+    margin-top: 20px;
+    /* justify-content: flex-end; */
+    position: relative;
+
+
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+.nav-list .list-item {
+
+    display: inline-block;
+    padding: 20px 10px;
+
+}
+
+
+#img6 {
+    width: 100px;
+
+}
+
+.heading {
+
+    color: black;
+    font-family:  "eurostile", sans-serif;
+    font-size: 2.5em;
+    margin: 0px auto;
+    width: auto;
+    text-align: center;
+}
+
+#head2 {
+
+    font-family: "eurostile", sans-serif;
+    font-weight: normal;
+    font-size: 1.5em;
+
+}
+
+.p1 {
+    text-align: center;
+}
+
+.backg {
+    background-color: #6E07F3;
+
+}
+
+#col1 {
+    padding: 200px 300px 300px 300px;
+
+    position: absolute;
+}
+
+#col1 h2 {
+
+    color: white;
+    font-size: 180%;
+}
+
+#col1 p {
+
+    color: white;
+    font-size: 115%;
+    line-height: 30px;
+    text-align: center;
+
+}
+
+.row {
+    position: relative;
+    
+    margin: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white;
+    top: 310px;
+    box-shadow: 0px 7px 18px 1px #888888;
+}
+
+.row2 {
+    position: relative;
+    top: 400px;
+    justify-content: center;
+}
+
+.ufoot{
+    position: relative;
+    top: 550px;
+}
+footer{
+    position: relative;
+    top: 270px;
+}
+
+.f1{
+    font-family: "eurostile", sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+
+    
+}
+#f2{
+    font-family: "eurostile", sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    font-style: normal;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    line-height: 25px;
+}
+
+.work{
+    font-size: 200%;
+    font-family:  sans-serif;
+    font-weight: normal;
+ 
+    font-style: normal;
+    padding-top: 2%;
+    
+    line-height: 25px;
+}
+#w1{
+    padding-top: 2%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.icon1{
+
+    position: relative;
+    top: 500px
+}
+a:visited
+{
+    text-transform: none;
+}
+a:hover{
+    color:#6E07F3
+}
+a:link {
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color :black
+  }
+
+
+  .works1{
+
+    padding-top: 2rem;
+    padding-inline: 20%;
+    display: flex;
+    
+  }
+
+  .snake-ladder{
+
+    
+  }
+  
+  #tic{
+    padding-inline: 20%;
+  }
+
+  
