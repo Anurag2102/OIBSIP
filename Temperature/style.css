@@ -1,0 +1,38 @@
+body {
+    padding: 50px 100px;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+#container {
+    text-align: center;
+    background-color: rgb(26, 112, 100);
+    padding: 50px;
+
+    border-radius: 6px;
+
+}
+
+.input-div {
+    display: inline-block;
+    border-radius: 6px;
+    color: white;
+}
+
+.inp {
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+
+label {
+    font-size: 32px;
+    font-weight: bold;
+}
